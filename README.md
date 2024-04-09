@@ -24,6 +24,6 @@ collecting half body or full body images
 ## Annotation content
 segmentation annotation of human body
 ## Accuracy
-the accuracy of label annotation is not less than 97%; the mask edge location errors in x and y
+the accuracy of label annotation is not less than 97%; the mask edge location errors in x and y directions are less than 3 pixels, which is considered as a qualified annotation; the annotation part (human body) is regarded as the unit, the accuracy shall be more than 97%
 # Licensing Information
 Commercial License
